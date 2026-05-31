@@ -280,6 +280,7 @@ for(i = 0; i < 256; i++)
     {
         printf("%c : %d\n", i, freq[i]);
     }
+```
 # Output:
 <img width="541" height="552" alt="image" src="https://github.com/user-attachments/assets/6880e25d-16c2-4a9a-9b4f-3e9b3f8df860" />
 
