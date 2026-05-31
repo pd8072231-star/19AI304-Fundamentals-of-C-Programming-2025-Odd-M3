@@ -357,6 +357,7 @@ for(i = 0; i < wordCount; i++)
 printf("\n");
 return 0;
 }
+```
 # Output:
 <img width="700" height="336" alt="image" src="https://github.com/user-attachments/assets/addbefb5-d413-4b71-b47b-3a41c7b82249" />
 
